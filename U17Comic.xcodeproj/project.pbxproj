@@ -38,10 +38,29 @@
 		6312391F2387CF360012FFC7 /* UIScrollView+ParallaxHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312391C2387CF360012FFC7 /* UIScrollView+ParallaxHeader.swift */; };
 		631239202387CF360012FFC7 /* ParallaxHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312391D2387CF360012FFC7 /* ParallaxHeader.swift */; };
 		631239212387CF360012FFC7 /* ParallaxHeaderMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312391E2387CF360012FFC7 /* ParallaxHeaderMode.swift */; };
+		631239232387D03A0012FFC7 /* USubscibeListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239222387D03A0012FFC7 /* USubscibeListViewController.swift */; };
+		631239252387D0750012FFC7 /* UVIPListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239242387D0750012FFC7 /* UVIPListViewController.swift */; };
+		631239272387D09C0012FFC7 /* UUpdateListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239262387D09C0012FFC7 /* UUpdateListViewController.swift */; };
+		631239292387D0C20012FFC7 /* USpecialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239282387D0C20012FFC7 /* USpecialViewController.swift */; };
+		6312392B2387D0E90012FFC7 /* UBoutiqueListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312392A2387D0E90012FFC7 /* UBoutiqueListViewController.swift */; };
+		6312392D2387D10B0012FFC7 /* URankListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312392C2387D10B0012FFC7 /* URankListViewController.swift */; };
+		631239312387D1960012FFC7 /* UCollectListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239302387D1960012FFC7 /* UCollectListViewController.swift */; };
+		631239332387D1B60012FFC7 /* UBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239322387D1B60012FFC7 /* UBookViewController.swift */; };
+		631239352387D1DC0012FFC7 /* UDocumentListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239342387D1DC0012FFC7 /* UDocumentListViewController.swift */; };
+		631239372387D1FA0012FFC7 /* UDownloadListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239362387D1FA0012FFC7 /* UDownloadListViewController.swift */; };
+		6312393C2387D24A0012FFC7 /* UCateListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312393B2387D24A0012FFC7 /* UCateListViewController.swift */; };
+		631239412387D28D0012FFC7 /* UComicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239402387D28D0012FFC7 /* UComicViewController.swift */; };
+		631239442387D2B60012FFC7 /* UDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239432387D2B60012FFC7 /* UDetailViewController.swift */; };
+		631239462387D2DE0012FFC7 /* UOtherWorksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239452387D2DE0012FFC7 /* UOtherWorksViewController.swift */; };
+		631239482387D2F90012FFC7 /* UChapterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239472387D2F90012FFC7 /* UChapterViewController.swift */; };
+		6312394A2387D3130012FFC7 /* UComicListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239492387D3130012FFC7 /* UComicListViewController.swift */; };
+		6312394C2387D3340012FFC7 /* UReadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312394B2387D3340012FFC7 /* UReadViewController.swift */; };
+		6312394E2387D3510012FFC7 /* UCommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6312394D2387D3510012FFC7 /* UCommentViewController.swift */; };
+		631239532387D3970012FFC7 /* USettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239522387D3970012FFC7 /* USettingViewController.swift */; };
+		631239552387D3AE0012FFC7 /* UMineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239542387D3AE0012FFC7 /* UMineViewController.swift */; };
+		6312395A2387D3EA0012FFC7 /* USearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 631239592387D3EA0012FFC7 /* USearchViewController.swift */; };
 		632FBC162351B8B300932B52 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FBC152351B8B300932B52 /* AppDelegate.swift */; };
 		632FBC182351B8B300932B52 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FBC172351B8B300932B52 /* SceneDelegate.swift */; };
-		632FBC1A2351B8B300932B52 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FBC192351B8B300932B52 /* ViewController.swift */; };
-		632FBC1D2351B8B300932B52 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 632FBC1B2351B8B300932B52 /* Main.storyboard */; };
 		632FBC1F2351B8B500932B52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 632FBC1E2351B8B500932B52 /* Assets.xcassets */; };
 		632FBC222351B8B500932B52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 632FBC202351B8B500932B52 /* LaunchScreen.storyboard */; };
 		632FBC2D2351B8B500932B52 /* U17ComicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 632FBC2C2351B8B500932B52 /* U17ComicTests.swift */; };
@@ -97,11 +116,30 @@
 		6312391C2387CF360012FFC7 /* UIScrollView+ParallaxHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScrollView+ParallaxHeader.swift"; sourceTree = "<group>"; };
 		6312391D2387CF360012FFC7 /* ParallaxHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParallaxHeader.swift; sourceTree = "<group>"; };
 		6312391E2387CF360012FFC7 /* ParallaxHeaderMode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParallaxHeaderMode.swift; sourceTree = "<group>"; };
+		631239222387D03A0012FFC7 /* USubscibeListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USubscibeListViewController.swift; sourceTree = "<group>"; };
+		631239242387D0750012FFC7 /* UVIPListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UVIPListViewController.swift; sourceTree = "<group>"; };
+		631239262387D09C0012FFC7 /* UUpdateListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UUpdateListViewController.swift; sourceTree = "<group>"; };
+		631239282387D0C20012FFC7 /* USpecialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USpecialViewController.swift; sourceTree = "<group>"; };
+		6312392A2387D0E90012FFC7 /* UBoutiqueListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UBoutiqueListViewController.swift; sourceTree = "<group>"; };
+		6312392C2387D10B0012FFC7 /* URankListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URankListViewController.swift; sourceTree = "<group>"; };
+		631239302387D1960012FFC7 /* UCollectListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UCollectListViewController.swift; sourceTree = "<group>"; };
+		631239322387D1B60012FFC7 /* UBookViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UBookViewController.swift; sourceTree = "<group>"; };
+		631239342387D1DC0012FFC7 /* UDocumentListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDocumentListViewController.swift; sourceTree = "<group>"; };
+		631239362387D1FA0012FFC7 /* UDownloadListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDownloadListViewController.swift; sourceTree = "<group>"; };
+		6312393B2387D24A0012FFC7 /* UCateListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UCateListViewController.swift; sourceTree = "<group>"; };
+		631239402387D28D0012FFC7 /* UComicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UComicViewController.swift; sourceTree = "<group>"; };
+		631239432387D2B60012FFC7 /* UDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UDetailViewController.swift; sourceTree = "<group>"; };
+		631239452387D2DE0012FFC7 /* UOtherWorksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UOtherWorksViewController.swift; sourceTree = "<group>"; };
+		631239472387D2F90012FFC7 /* UChapterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UChapterViewController.swift; sourceTree = "<group>"; };
+		631239492387D3130012FFC7 /* UComicListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UComicListViewController.swift; sourceTree = "<group>"; };
+		6312394B2387D3340012FFC7 /* UReadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UReadViewController.swift; sourceTree = "<group>"; };
+		6312394D2387D3510012FFC7 /* UCommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UCommentViewController.swift; sourceTree = "<group>"; };
+		631239522387D3970012FFC7 /* USettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USettingViewController.swift; sourceTree = "<group>"; };
+		631239542387D3AE0012FFC7 /* UMineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMineViewController.swift; sourceTree = "<group>"; };
+		631239592387D3EA0012FFC7 /* USearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USearchViewController.swift; sourceTree = "<group>"; };
 		632FBC122351B8B300932B52 /* U17Comic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = U17Comic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		632FBC152351B8B300932B52 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		632FBC172351B8B300932B52 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		632FBC192351B8B300932B52 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		632FBC1C2351B8B300932B52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		632FBC1E2351B8B500932B52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		632FBC212351B8B500932B52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		632FBC232351B8B500932B52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -217,6 +255,12 @@
 			isa = PBXGroup;
 			children = (
 				631238F42387CD990012FFC7 /* UHomeViewController.swift */,
+				631239222387D03A0012FFC7 /* USubscibeListViewController.swift */,
+				631239242387D0750012FFC7 /* UVIPListViewController.swift */,
+				631239262387D09C0012FFC7 /* UUpdateListViewController.swift */,
+				631239282387D0C20012FFC7 /* USpecialViewController.swift */,
+				6312392A2387D0E90012FFC7 /* UBoutiqueListViewController.swift */,
+				6312392C2387D10B0012FFC7 /* URankListViewController.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -295,6 +339,128 @@
 			path = ParallaxHeader;
 			sourceTree = "<group>";
 		};
+		6312392E2387D16E0012FFC7 /* Book */ = {
+			isa = PBXGroup;
+			children = (
+				6312392F2387D17A0012FFC7 /* VIewController */,
+			);
+			path = Book;
+			sourceTree = "<group>";
+		};
+		6312392F2387D17A0012FFC7 /* VIewController */ = {
+			isa = PBXGroup;
+			children = (
+				631239302387D1960012FFC7 /* UCollectListViewController.swift */,
+				631239322387D1B60012FFC7 /* UBookViewController.swift */,
+				631239342387D1DC0012FFC7 /* UDocumentListViewController.swift */,
+				631239362387D1FA0012FFC7 /* UDownloadListViewController.swift */,
+			);
+			path = VIewController;
+			sourceTree = "<group>";
+		};
+		631239382387D2140012FFC7 /* Cate */ = {
+			isa = PBXGroup;
+			children = (
+				6312393A2387D2360012FFC7 /* ViewController */,
+				631239392387D22F0012FFC7 /* View */,
+			);
+			path = Cate;
+			sourceTree = "<group>";
+		};
+		631239392387D22F0012FFC7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6312393A2387D2360012FFC7 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				6312393B2387D24A0012FFC7 /* UCateListViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		6312393D2387D2650012FFC7 /* Comic */ = {
+			isa = PBXGroup;
+			children = (
+				6312393F2387D2740012FFC7 /* ViewController */,
+				6312393E2387D2700012FFC7 /* VIew */,
+			);
+			path = Comic;
+			sourceTree = "<group>";
+		};
+		6312393E2387D2700012FFC7 /* VIew */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VIew;
+			sourceTree = "<group>";
+		};
+		6312393F2387D2740012FFC7 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				631239402387D28D0012FFC7 /* UComicViewController.swift */,
+				631239432387D2B60012FFC7 /* UDetailViewController.swift */,
+				631239452387D2DE0012FFC7 /* UOtherWorksViewController.swift */,
+				631239472387D2F90012FFC7 /* UChapterViewController.swift */,
+				631239492387D3130012FFC7 /* UComicListViewController.swift */,
+				6312394B2387D3340012FFC7 /* UReadViewController.swift */,
+				6312394D2387D3510012FFC7 /* UCommentViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		6312394F2387D3720012FFC7 /* Mine */ = {
+			isa = PBXGroup;
+			children = (
+				631239512387D37E0012FFC7 /* ViewController */,
+				631239502387D3790012FFC7 /* View */,
+			);
+			path = Mine;
+			sourceTree = "<group>";
+		};
+		631239502387D3790012FFC7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		631239512387D37E0012FFC7 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				631239522387D3970012FFC7 /* USettingViewController.swift */,
+				631239542387D3AE0012FFC7 /* UMineViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		631239562387D3C50012FFC7 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				631239582387D3D90012FFC7 /* ViewController */,
+				631239572387D3CE0012FFC7 /* VIew */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		631239572387D3CE0012FFC7 /* VIew */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VIew;
+			sourceTree = "<group>";
+		};
+		631239582387D3D90012FFC7 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				631239592387D3EA0012FFC7 /* USearchViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
 		632FBC092351B8B300932B52 = {
 			isa = PBXGroup;
 			children = (
@@ -326,8 +492,6 @@
 				631238C62387B8040012FFC7 /* Extension */,
 				636980392355DDE1009DF9D4 /* Procedure */,
 				632FBC172351B8B300932B52 /* SceneDelegate.swift */,
-				632FBC192351B8B300932B52 /* ViewController.swift */,
-				632FBC1B2351B8B300932B52 /* Main.storyboard */,
 				632FBC1E2351B8B500932B52 /* Assets.xcassets */,
 				632FBC202351B8B500932B52 /* LaunchScreen.storyboard */,
 				632FBC232351B8B500932B52 /* Info.plist */,
@@ -356,6 +520,11 @@
 		636980392355DDE1009DF9D4 /* Procedure */ = {
 			isa = PBXGroup;
 			children = (
+				631239562387D3C50012FFC7 /* Search */,
+				6312394F2387D3720012FFC7 /* Mine */,
+				6312393D2387D2650012FFC7 /* Comic */,
+				631239382387D2140012FFC7 /* Cate */,
+				6312392E2387D16E0012FFC7 /* Book */,
 				631238F12387CD570012FFC7 /* Home */,
 				631238EC2387CC440012FFC7 /* Base */,
 				6369803A2355DE0D009DF9D4 /* Global.swift */,
@@ -489,7 +658,6 @@
 			files = (
 				632FBC222351B8B500932B52 /* LaunchScreen.storyboard in Resources */,
 				632FBC1F2351B8B500932B52 /* Assets.xcassets in Resources */,
-				632FBC1D2351B8B300932B52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -590,32 +758,52 @@
 				631239172387CEF80012FFC7 /* UHairPowder.swift in Sources */,
 				631238FE2387CE480012FFC7 /* UBaseCollectionViewCell.swift in Sources */,
 				631239052387CE730012FFC7 /* UBaseViewController.swift in Sources */,
+				631239482387D2F90012FFC7 /* UChapterViewController.swift in Sources */,
 				6312391F2387CF360012FFC7 /* UIScrollView+ParallaxHeader.swift in Sources */,
 				631238D52387C9570012FFC7 /* StringExtension.swift in Sources */,
+				6312394C2387D3340012FFC7 /* UReadViewController.swift in Sources */,
 				631238D72387C9570012FFC7 /* UIImageExtensions.swift in Sources */,
+				631239232387D03A0012FFC7 /* USubscibeListViewController.swift in Sources */,
 				631239212387CF360012FFC7 /* ParallaxHeaderMode.swift in Sources */,
 				6369803B2355DE0D009DF9D4 /* Global.swift in Sources */,
 				631238C82387B8510012FFC7 /* ArrayExtensions.swift in Sources */,
 				631239202387CF360012FFC7 /* ParallaxHeader.swift in Sources */,
+				6312395A2387D3EA0012FFC7 /* USearchViewController.swift in Sources */,
 				631239092387CE730012FFC7 /* UWebViewController.swift in Sources */,
+				631239272387D09C0012FFC7 /* UUpdateListViewController.swift in Sources */,
 				631238D82387C9570012FFC7 /* UIBarButtonItemExtension.swift in Sources */,
-				632FBC1A2351B8B300932B52 /* ViewController.swift in Sources */,
+				631239412387D28D0012FFC7 /* UComicViewController.swift in Sources */,
+				631239442387D2B60012FFC7 /* UDetailViewController.swift in Sources */,
 				631238EB2387CA290012FFC7 /* UModel.swift in Sources */,
+				631239462387D2DE0012FFC7 /* UOtherWorksViewController.swift in Sources */,
+				631239312387D1960012FFC7 /* UCollectListViewController.swift in Sources */,
+				6312393C2387D24A0012FFC7 /* UCateListViewController.swift in Sources */,
 				632FBC162351B8B300932B52 /* AppDelegate.swift in Sources */,
 				631238D32387C9570012FFC7 /* UIDeviceExtension.swift in Sources */,
 				631238FB2387CE480012FFC7 /* UBaseCollectionReusableView.swift in Sources */,
+				6312394E2387D3510012FFC7 /* UCommentViewController.swift in Sources */,
 				631238FC2387CE480012FFC7 /* UBaseTableViewHeaderFooterView.swift in Sources */,
 				631238DC2387C9C30012FFC7 /* UAPI.swift in Sources */,
+				631239352387D1DC0012FFC7 /* UDocumentListViewController.swift in Sources */,
 				631239112387CECB0012FFC7 /* UCollectionViewSectionBackgroundLayout.swift in Sources */,
+				631239552387D3AE0012FFC7 /* UMineViewController.swift in Sources */,
 				631238FD2387CE480012FFC7 /* UBaseTableViewCell.swift in Sources */,
+				631239252387D0750012FFC7 /* UVIPListViewController.swift in Sources */,
+				6312392D2387D10B0012FFC7 /* URankListViewController.swift in Sources */,
 				6312390C2387CEAF0012FFC7 /* URefresh.swift in Sources */,
 				631238D62387C9570012FFC7 /* UIColorExtension.swift in Sources */,
+				6312394A2387D3130012FFC7 /* UComicListViewController.swift in Sources */,
 				631239102387CECB0012FFC7 /* UCollectionViewAlignedLayout.swift in Sources */,
+				6312392B2387D0E90012FFC7 /* UBoutiqueListViewController.swift in Sources */,
 				631238D22387C9570012FFC7 /* DispatchQueueExtension.swift in Sources */,
+				631239372387D1FA0012FFC7 /* UDownloadListViewController.swift in Sources */,
 				632FBC182351B8B300932B52 /* SceneDelegate.swift in Sources */,
 				631239072387CE730012FFC7 /* UPageViewController.swift in Sources */,
+				631239332387D1B60012FFC7 /* UBookViewController.swift in Sources */,
 				631239062387CE730012FFC7 /* UTabBarController.swift in Sources */,
+				631239532387D3970012FFC7 /* USettingViewController.swift in Sources */,
 				6312391A2387CF100012FFC7 /* UNoticeBar.swift in Sources */,
+				631239292387D0C20012FFC7 /* USpecialViewController.swift in Sources */,
 				631239082387CE730012FFC7 /* UNavigationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -652,14 +840,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		632FBC1B2351B8B300932B52 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				632FBC1C2351B8B300932B52 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		632FBC202351B8B500932B52 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
